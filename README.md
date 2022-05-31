@@ -18,7 +18,7 @@ Download and extract data from the link above
 
 ### Dependencies
 - The source code is written in Python 3.
-- The python packages can be installed with pip : `pip3 install -R requirements.txt`
+- The python packages can be installed with pip : `pip3 install -r requirements.txt`
 
 ## Usage
 ### Run the file linearly
