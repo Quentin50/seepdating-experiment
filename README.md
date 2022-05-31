@@ -11,7 +11,7 @@ The goal of this project is to extract insights from a speed dating experiment.
 - Does sharing interests matter?
 
 ## Dataset
-Dataset from kaggle competition "Speed Dating Experiment": https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment
+Dataset from kaggle competition [Speed Dating Experiment](https://www.kaggle.com/datasets/annavictoria/speed-dating-experiment)
 
 ## Prerequisites
 Download and extract data from the link above
