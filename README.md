@@ -1,7 +1,7 @@
 # Project with Jedha
 
 ### Link to the presentation video
-https://share.vidyard.com/watch/QCTErGod9QYXav6DMCEEgM?
+[Presentation video](https://share.vidyard.com/watch/QCTErGod9QYXav6DMCEEgM?)
 
 
 ### Objective
