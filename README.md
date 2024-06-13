@@ -24,7 +24,7 @@ Download and extract data from the link above
 ### Run the file linearly
 
 ## Team contributors
-Quentin Gottafray
+Axelle Gottafray
 
 ## References
 
